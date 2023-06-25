@@ -1,0 +1,48 @@
+
+.heading{
+  color: brown;
+  text-align: center;
+}
+.searchbox{
+
+  height: 30px;
+  width: 250px;
+  border: 2px solid skyblue;
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 40%;
+  margin-bottom: 30px;
+}
+
+.avatar_border{
+  height: 250px;
+  width:300px;
+  margin: auto;
+  border: 1px solid rgb(187, 183, 183);
+  border-radius: 25px;
+}
+
+.avatar_border img{
+  margin: 30px;
+  border-radius: 25px;
+}
+
+.id{
+  width: 25px;
+  margin-left: 800px;
+  position: absolute;
+  border: 1px solid grey;
+  border-radius: 50%;
+  background-color: black;
+  
+}
+.id div{
+  margin: 7px;
+  color: white;
+
+}
+
+.firstname{
+  display: flex;
+  justify-content: center;
+}
